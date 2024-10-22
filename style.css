@@ -1,0 +1,40 @@
+<body {
+
+background-color: azure;
+margin: 0%px;
+
+}
+
+nav a{    
+margin-top: 5%px;
+padding: 2%px;
+font-size: large;
+color: rgb(233, 87, 213);
+
+}
+<h1{ 
+    color: rgb(233, 87, 213), 
+    ;
+}
+.categoria-video img {
+    opacity: 0.6;
+}
+.vermelho{ font-style: italic;
+
+}
+
+h2 { color: rgb(233, 87, 213);}
+.categoria-video img { 
+    opacity: 0.6;
+}
+.vermelho{ font-style: italic;
+}
+.img1{
+     width: 50%;
+    }
+    .centro {
+        text-align: justify;
+    }
+    .img1{ height: 200px;
+    }
+
